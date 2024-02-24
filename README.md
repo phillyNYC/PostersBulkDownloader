@@ -17,8 +17,7 @@ MOVIE NAMES HAVE TO BE IN "Movie Name Release Year" FORMAT. NO DOTS, NO DASHES!!
 
 *Iron Man 2008*
 
-4. **Export Folder Location**: Replace the placeholder value in the script with the folder path where you want the posters to be downloaded. Find the line containing **posters_folder_path = "C:\\path\\to\\your\\export_folder"** and replace **"C:\\path\\to\\your\\export_folder"** with the actual location of your folder.
-5. Specify the path to the folder where you want the posters to be downloaded.
+3. **Export Folder Location**: Replace the placeholder value in the script with the folder path where you want the posters to be downloaded. Find the line containing **posters_folder_path = "C:\\path\\to\\your\\export_folder"** and replace **"C:\\path\\to\\your\\export_folder"** with the actual location of your folder.
 
 ### Obtaining a TMDb API Key
 
