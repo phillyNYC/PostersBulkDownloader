@@ -29,7 +29,7 @@ To get an API key from TMDb, follow these steps:
 
 ### Running the Script
 
-Download the latest version of the script from [here](https://github.com/phillyNYC/PostersBulkDownloader/releases/download/Script/PostersBulkDownloader.py). With Python installed on your system, open your command line interface and navigate to the directory containing the script. Run the script using the following command:
+Download the latest version of the script from [here](https://github.com/phillyNYC/PostersBulkDownloader/releases/latest). With Python installed on your system, open your command line interface and navigate to the directory containing the script. Run the script using the following command:
 
 ```bash
 python PostersBulkDownloader.py
