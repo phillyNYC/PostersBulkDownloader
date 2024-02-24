@@ -39,3 +39,5 @@ Make sure you have the requests library installed. If not, you can install it us
 ```bash
 pip install requests
 ```
+
+The script will create a log file named **missing_posters.log** in the posters directory with the movie names it couldn't identify, if there are any.
