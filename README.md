@@ -2,6 +2,24 @@
 
 This Python script automatically fetches and downloads movie posters based on a list of movie names. It uses The Movie Database (TMDb) API to retrieve movie information and poster URLs.
 
+## GUI Usage on Windows
+
+To run the GUI application, follow these steps:
+
+1. **Download the Executable**: Download the latest release from the [Releases](https://github.com/phillyNYC/PostersBulkDownloader/releases/latest) section.
+2. **Launch the Application**: Double-click on the downloaded `.exe` file to launch the GUI.
+3. **Configure Settings**:
+   - Enter your TMDb API Key in the "TMDb API Key" field.
+   - Use the "Browse..." buttons to select the location of your movie list file and to choose the export location for the downloaded posters.
+4. **Start Download**: Click on the "Start Download" button to begin downloading posters. The application will display the progress and notify you once the download is complete.
+
+## Note on Antivirus False Positives
+
+Some antivirus programs may flag the downloaded executable as a potential threat (false positive). This is a common issue with executables created using tools like PyInstaller, which is used to package this Python application.
+
+If your antivirus software alerts you about the executable, you can safely allow the application to run. I ensure that the executable is clean and free of any malware. Anyways, if you don't trust, you can do it manually by running the script. A guide is provided below.
+
+
 ## Configuration
 
 Before running the script, you'll need to make a few edits to include your specific details:
