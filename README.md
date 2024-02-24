@@ -29,7 +29,7 @@ Before running the script, you'll need to make a few edits to include your speci
 
 **MOVIE NAMES HAVE TO BE IN "Movie Name Release Year" FORMAT. NO DOTS, NO DASHES!!! Example:**
 
-   - *The Great Garsby 2013*
+   - *The Great Gatsby 2013*
    - *I Care a Lot 2020*
    - *Iron Man 2008*
 
